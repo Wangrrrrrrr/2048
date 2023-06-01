@@ -350,7 +350,9 @@ hr {
     color: rgba(0,0,0,0); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: url("https://stickershop.line-scdn.net/stickershop/v1/product/23105007/LINEStorePC/main.png;compress=true");
+    background-size: contain;
+    color: rgba(0,0,0,0); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: #f65e3b; }
