@@ -334,7 +334,9 @@ hr {
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url("https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/345853233_162056789894893_6115808224052377170_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tD267q90gH0AX__PVJq&_nc_ht=scontent.ftpe8-4.fna&oh=00_AfDnTAJbbDf1p_2UYzL9YSKBzNR5M_mm5sZtrx3JDXRCeA&oe=647E4C45");
+    background-size: contain;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
