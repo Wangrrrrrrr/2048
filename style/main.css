@@ -355,7 +355,9 @@ hr {
     color: rgba(0,0,0,0); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: url("https://stickershop.line-scdn.net/stickershop/v1/sticker/588708165/android/sticker.png");
+    background-size: contain;
+    color: rgba(0,0,0,0); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
