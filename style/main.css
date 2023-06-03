@@ -382,16 +382,18 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    background: url(https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/147373295_259224462387665_4981788976601661476_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=TXynHafjiYQAX-TqW6A&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfA2Hm8XdQhxvDAr6Sby7lrO84t63mA7yVeZc-AWa94vxA&oe=64A20EB8");
+    background-size: contain;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
+    background: url(https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/158085113_278487820461329_8901492172701280160_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=wr-_Kt3xnfwAX9qf_9y&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfDo19tE0TcbN7T3x6kMaf7f2V2CFHYnWA-7goGuEeV3pQ&oe=64A210DD");
+    background-size: contain;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
