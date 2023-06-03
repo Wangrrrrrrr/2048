@@ -342,24 +342,22 @@ hr {
     background: url("https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/280232068_550729173237191_3804165650487147456_n.png?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=wYV3Ls7KM8UAX_KtJXo&_nc_ht=scontent.ftpe7-3.fna&oh=00_AfBcfA-xD7WJFlNSYYGawj_lmTCL3YGrd90y8NlOL3wy9w&oe=647D0667");
     background-size: contain;
     color: rgba(0,0,0,0); }
-  .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
+  .tile.tile-16 .tile-inner {    
     background: url("https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/272967348_487728602870582_7739833912191312851_n.png?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=DC-jSrTPoQsAX-waVD-&_nc_ht=scontent.ftpe7-4.fna&oh=00_AfBtAjjT69Q0tezCEXdyWUFGKhyzDpbg8a6_mwBmSisBvA&oe=647D9ADA");
     background-size: contain;
     color: rgba(0,0,0,0); }
-  .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
+  .tile.tile-32 .tile-inner {   
     background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t39.30808-6/218380611_365635715079872_183883467772137492_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=suDyxcaUyz4AX9BxRHo&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfBgHPX9XzvPerl9r0AKtXdl48uwJEza2tVPfDVudInzEQ&oe=647FDE03");
     background-size: contain;
     color: rgba(0,0,0,0); }
-  .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
+  .tile.tile-64 .tile-inner {    
     background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/194676438_333804514929659_6093495366203081836_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=oqe99NpUReUAX8rE46Z&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfA99cUzR_zueFm-S2iB6blf2foM09hPcmIH3QGkI6uH2g&oe=64A1E68C");
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/198798068_340495240927253_5968293448585578535_n.png?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=A0NhkAIqXsEAX-UpjMd&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfBkYSRUmzYOvH-q9fDXSW3JFxaUjC5b9f9is0_PG1yrHw&oe=64A2052F");
+    background-size: contain;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
