@@ -329,33 +329,33 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url(https://menus.tw/wp-content/uploads/2022/08/1.-%E9%A6%96%E5%9C%96-10.png);
+    background: url(/img/01.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url("https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/345853233_162056789894893_6115808224052377170_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tD267q90gH0AX__PVJq&_nc_ht=scontent.ftpe8-4.fna&oh=00_AfDnTAJbbDf1p_2UYzL9YSKBzNR5M_mm5sZtrx3JDXRCeA&oe=647E4C45");
+    background: url(/img/02.tif);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url("https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/280232068_550729173237191_3804165650487147456_n.png?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=wYV3Ls7KM8UAX_KtJXo&_nc_ht=scontent.ftpe7-3.fna&oh=00_AfBcfA-xD7WJFlNSYYGawj_lmTCL3YGrd90y8NlOL3wy9w&oe=647D0667");
+    background: url(/img/03.jpg");
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-16 .tile-inner {    
-    background: url("https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/272967348_487728602870582_7739833912191312851_n.png?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=DC-jSrTPoQsAX-waVD-&_nc_ht=scontent.ftpe7-4.fna&oh=00_AfBtAjjT69Q0tezCEXdyWUFGKhyzDpbg8a6_mwBmSisBvA&oe=647D9ADA");
+    background: url(/img/04.tif);
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-32 .tile-inner {   
-    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t39.30808-6/218380611_365635715079872_183883467772137492_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=suDyxcaUyz4AX9BxRHo&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfBgHPX9XzvPerl9r0AKtXdl48uwJEza2tVPfDVudInzEQ&oe=647FDE03");
+    background: url(/img/05.jpg);
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-64 .tile-inner {    
-    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/194676438_333804514929659_6093495366203081836_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=oqe99NpUReUAX8rE46Z&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfA99cUzR_zueFm-S2iB6blf2foM09hPcmIH3QGkI6uH2g&oe=64A1E68C");
+    background: url(/img/06.jpg);
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-128 .tile-inner {
-    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/198798068_340495240927253_5968293448585578535_n.png?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=A0NhkAIqXsEAX-UpjMd&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfBkYSRUmzYOvH-q9fDXSW3JFxaUjC5b9f9is0_PG1yrHw&oe=64A2052F");
+    background: url(/img/07.jpg);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -364,7 +364,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t39.30808-6/244732341_415640313412745_7448566839907060211_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=BnFjZjLk2aMAX8XLs97&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfCX9l7kr0pKWRz3E-HYqyQn_quzoXvNe2T_P9IWBVrVyQ&oe=647F7636");
+    background: url(/img/08.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -373,7 +373,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: url("https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/166681357_291051495871628_7874943181421045383_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=AADNRboFKW0AX_ol7HU&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfDsxzr4sDrfLqSrCwJiERy_36ZfAuUTMWQP37MLcN1l9Q&oe=64A1F0FC");
+    background: url(/img/09.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -382,7 +382,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: url(https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/147373295_259224462387665_4981788976601661476_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=TXynHafjiYQAX-TqW6A&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfA2Hm8XdQhxvDAr6Sby7lrO84t63mA7yVeZc-AWa94vxA&oe=64A20EB8");
+    background: url(/img/10.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -391,7 +391,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: url(https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.6435-9/158085113_278487820461329_8901492172701280160_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=wr-_Kt3xnfwAX9qf_9y&_nc_ht=scontent.ftpe9-1.fna&oh=00_AfDo19tE0TcbN7T3x6kMaf7f2V2CFHYnWA-7goGuEeV3pQ&oe=64A210DD");
+    background: url(/img/11.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
