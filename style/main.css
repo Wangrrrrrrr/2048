@@ -329,17 +329,17 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url(/img/OO2.png);
+    background: url(/img/O2.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url(/img/OO4.png);
+    background: url(/img/O4.png);
     background-size: contain;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url(/img/OO8.png);
+    background: url(/img/O8.png);
     background-size: contain;
     color: rgba(0,0,0,0); }
   .tile.tile-16 .tile-inner {
